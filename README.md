@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Base44 Project
 
 Use this repository to run and edit the app locally, then publish changes back through Base44.
@@ -75,3 +76,6 @@ Documentation: [https://docs.base44.com/Integrations/Using-GitHub](https://docs.
 Base44 CLI command reference: [https://docs.base44.com/developers/references/cli/commands/introduction](https://docs.base44.com/developers/references/cli/commands/introduction)
 
 Support: [https://app.base44.com/support](https://app.base44.com/support)
+=======
+# portfolio-website
+>>>>>>> 3299aa81853801a981f883f6cdb3697e9d0cabf4
