@@ -26,7 +26,7 @@ const projects = [
     description: "Modern resume builder web app to create professional resumes quickly with clean templates and responsive design.",
     tech: ["HTML", "CSS", "JavaScript"],
     image: "https://media.base44.com/images/public/6a447df598a5703b5f0fb7c1/7e8000770_generated_02b69992.png",
-    live: "https://resume-craft-copy-b3a85733.base44.app",
+    live: "https://resume-crafte.vercel.app", // <--- LINK FIXED HERE
     github: "https://github.com/malusarekrishnab-cyber",
     status: "In Dev",
   },
