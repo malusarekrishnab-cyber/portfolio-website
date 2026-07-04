@@ -8,20 +8,8 @@ Personal portfolio website built with React, Vite, and Tailwind CSS.
 - Tailwind CSS + shadcn/ui
 - Framer Motion (animations)
 - EmailJS (contact form)
-
-## Local Development
-
-```bash
-npm install
-npm run dev
-```
-
-## Build
-
-```bash
-npm run build
-```
-
+- 
 ## Deployment
 
 Deployed on [Vercel](https://vercel.com).
+ live demo :-https://krushna-malusare-portfolio.vercel.app/
